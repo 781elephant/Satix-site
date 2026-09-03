@@ -1,0 +1,8 @@
+<svg width="434" height="120" viewBox="0 0 434 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(4,12)">
+    <circle cx="48" cy="48" r="7" fill="#2768FF"/>
+    <ellipse cx="48" cy="48" rx="43" ry="18" transform="rotate(-19 48 48)" stroke="white" stroke-width="5"/>
+    <path d="M18 74C26 84 37 90 49 90C69 90 87 75 91 55" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="112" y="80" fill="white" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-4">SATIX</text>
+</svg>

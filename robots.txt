@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://satix.ae/sitemap.xml
